@@ -52,7 +52,7 @@ const electron = require('electron');
 console.log(Object.keys(electron));
 ```
 
-We can see a short list of the modules that availabe to us in the main process. There are a different set of modules available in renderer processes, with some small overlap between the two.
+We can see a short list of the modules that available to us in the main process. There are a different set of modules available in renderer processes, with some small overlap between the two.
 
 Show how [the documentation lists the components][docs] in available to each kind of process.
 
